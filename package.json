@@ -1,0 +1,12 @@
+{
+  "name": "Indecision-APP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/craig91/Indecision-APP.git",
+  "author": "craig91 <craigdejean1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "6.24.1"
+  }
+}
